@@ -1,0 +1,4 @@
+repository "RunYourWay@ae_sakon@cloud"
+  path "/"
+    br "/main"
+    co "/main"
