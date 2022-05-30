@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/RunYourWay/Scenes/CustomsCharacter.unity
+    guid: a5b1b29882d73a54f905aae985e608bc
   m_configObjects: {}
